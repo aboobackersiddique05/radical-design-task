@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:radicaltask2/login.dart';
+import 'package:rata2/login.dart';
 
 void main() {
   runApp(const MyApp());

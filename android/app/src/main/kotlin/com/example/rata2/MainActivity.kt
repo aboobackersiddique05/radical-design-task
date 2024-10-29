@@ -1,4 +1,4 @@
-package com.example.radicaltask2
+package com.example.rata2
 
 import io.flutter.embedding.android.FlutterActivity
 
